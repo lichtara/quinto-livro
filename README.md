@@ -4,6 +4,18 @@
 
 > Este livro apresenta uma arquitetura de consciência que integra estrutura interna e linguagem como ferramentas práticas para reorganização perceptiva e construção de autonomia cognitiva.
 
+
+---
+
+## Estado da Arquitetura
+
+Versão atual: v0.1 (fundacional)
+
+Em construção: Estrutura de Princípios
+
+Próxima consolidação prevista: Modelo Formal Integrado
+
+
 ---
 
 ## 1. Sobre este repositório
