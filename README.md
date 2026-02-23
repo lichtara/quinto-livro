@@ -159,8 +159,6 @@ mas o fio invisível é sempre a auto-observação.
 
 ---
 
-cada consciência desenvolve o próprio método —
-mas o fio invisível é sempre a auto-observação.
 
 “Este trabalho não ensina um caminho.
 Ele ensina como perceber o próprio caminhar.”
