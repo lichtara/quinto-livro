@@ -155,3 +155,7 @@ Este projeto não deve ser utilizado para:
 A Ciência da Luz não forma seguidores.
 Ela propõe um modelo.
 
+---
+
+“Este trabalho não ensina um caminho.
+Ele ensina como perceber o próprio caminhar.”
