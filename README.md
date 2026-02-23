@@ -2,6 +2,8 @@
 
 ### Modelo Estrutural da Consciência em Expansão
 
+> Este livro apresenta uma arquitetura de consciência que integra estrutura interna e linguagem como ferramentas práticas para reorganização perceptiva e construção de autonomia cognitiva.
+
 ---
 
 ## 1. Sobre este repositório
