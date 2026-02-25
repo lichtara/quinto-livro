@@ -18,7 +18,7 @@ Próxima consolidação prevista: Modelo Formal Integrado
 
 ## 1. Sobre este repositório
 
-Este repositório contém a estrutura conceitual, formal e metodológica do projeto **Ciência da Luz** — o quinto livro da arquitetura Lichtara.
+Este repositório contém a estrutura conceitual, formal e metodológica do projeto do quinto livro da arquitetura Lichtara.
 
 Trata-se de um modelo teórico que propõe uma leitura estrutural da consciência como princípio organizador da experiência, articulando:
 
@@ -35,7 +35,7 @@ O objetivo não é propor uma doutrina, nem substituir modelos científicos exis
 
 ## 2. Intenção Fundadora
 
-A Ciência da Luz nasce da necessidade de:
+O Quinto Livro nasce da necessidade de:
 
 * formalizar a Arquitetura do Ser em linguagem técnica;
 * dialogar com a comunidade científica;
@@ -162,7 +162,7 @@ Este projeto não deve ser utilizado para:
 * legitimar promessas terapêuticas sem evidência;
 * criar dependência ideológica.
 
-A Ciência da Luz não forma seguidores.
+O Quinto Livro não forma seguidores.
 Ela propõe um modelo. 
 Cada consciência desenvolve o próprio método —
 mas o fio invisível é sempre a auto-observação.
