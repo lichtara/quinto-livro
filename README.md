@@ -1,6 +1,4 @@
-## CIÊNCIA DA LUZ
-
-### Modelo Estrutural da Consciência em Expansão
+# QUINTO LIVRO - Sistema-Consciente: Fundamentos de um Paradigma
 
 > Este livro apresenta uma arquitetura de consciência que integra estrutura interna e linguagem como ferramentas práticas para reorganização perceptiva e construção de autonomia cognitiva.
 
